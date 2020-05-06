@@ -26,3 +26,5 @@ docs/undocumented.json
 .#*
 
 .swiftpm
+
+Carthage/Checkouts
