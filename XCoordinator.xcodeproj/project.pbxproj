@@ -196,8 +196,8 @@
 		OBJ_65 /* XCTestManifests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCTestManifests.swift; sourceTree = "<group>"; };
 		OBJ_66 /* XCText+Extras.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "XCText+Extras.swift"; sourceTree = "<group>"; };
 		OBJ_9 /* Animation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation.swift; sourceTree = "<group>"; };
-		"XCoordinator::XCoordinator::Product" /* XCoordinator.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = XCoordinator.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		"XCoordinator::XCoordinatorCombine::Product" /* XCoordinatorCombine.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = XCoordinatorCombine.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		"XCoordinator::XCoordinator::Product" /* XCoordinator.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = XCoordinator.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		"XCoordinator::XCoordinatorCombine::Product" /* XCoordinatorCombine.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = XCoordinatorCombine.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		"XCoordinator::XCoordinatorRx::Product" /* XCoordinatorRx.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = XCoordinatorRx.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		"XCoordinator::XCoordinatorTests::Product" /* XCoordinatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; path = XCoordinatorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -677,6 +677,7 @@
 		OBJ_402 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_TESTABILITY = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -705,6 +706,7 @@
 		OBJ_403 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_TESTABILITY = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -733,6 +735,7 @@
 		OBJ_453 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_TESTABILITY = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -761,6 +764,7 @@
 		OBJ_454 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_TESTABILITY = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -819,6 +823,7 @@
 		OBJ_474 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_TESTABILITY = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -848,6 +853,7 @@
 		OBJ_475 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_TESTABILITY = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
